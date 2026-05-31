@@ -41,11 +41,15 @@
 ## 📊 GitHub Analytics (Auto-Update)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitBaghel5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Total+Contributions&cache_bust=1" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitBaghel5&layout=compact&theme=tokyonight&cache_bust=1" height="180" />
+  <!-- Sirf Commits wala Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SumitBaghel5&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=My+Total+Commits&cache_bust=1" height="150" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitBaghel5&layout=compact&theme=tokyonight&cache_bust=1" height="150" />
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitBaghel5&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
 </p>
   <i>"Data is the new oil, but only if you know how to refine it."</i>
