@@ -31,11 +31,13 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitBaghel5&show_icons=true&theme=tokyonight&count_private=true" alt="Sumit's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitBaghel5&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=SumitBaghel5&show_icons=true&theme=tokyonight&count_private=true" alt="Sumit's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SumitBaghel5&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
