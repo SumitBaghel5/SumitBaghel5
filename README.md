@@ -2,9 +2,7 @@
 ### Data Analyst & Python Developer
 
 <p align="left">
-  <a href="https://github.com/SumitBaghel5">
-    <img src="https://komarev.com/ghpvc/?username=SumitBaghel5&color=blue&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSumitBaghel5&count_bg=%23007ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/>
 </p>
 
 ---
