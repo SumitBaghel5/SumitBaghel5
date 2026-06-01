@@ -1,17 +1,12 @@
 <div align="center">
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sumit+Baghel+👋;Data+Analyst;Python+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSumitBaghel5&count_bg=%23007ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/>
+<p align="left">
+Hi,+I'm+Sumit+Baghel+👋
 </p>
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=;Data+Analyst;Python+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitBaghel5&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Sumit's Trophies" />
-</p>
 
 </div>
 
