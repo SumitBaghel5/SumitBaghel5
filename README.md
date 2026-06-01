@@ -3,7 +3,7 @@
 ---
 </p>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=100&color=#00008B&center=true&vCenter=true&width=500&lines=;Data+Analyst;Python+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=100&color=00008B&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 
 
